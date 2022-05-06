@@ -1,4 +1,5 @@
 This repository is for code from the AppleTV series Tehran. I copied what I could because it's fun.
+I started this watching Season 2. I will only do these as long as I continue to enjoy doing it.
 **I did not author these originally, and I am not affiliated with the show in any way other than being a fan.**
 The code is not to be used for any criminal, political, or illegal acts. 
 I titled the files what they were titled in the show if I could. 
